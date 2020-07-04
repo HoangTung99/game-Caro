@@ -1,0 +1,20 @@
+E:\Project AI\Caro\Caro\bin\Debug\Caro.exe.config
+E:\Project AI\Caro\Caro\bin\Debug\Caro.exe
+E:\Project AI\Caro\Caro\bin\Debug\Caro.pdb
+E:\Project AI\Caro\Caro\obj\Debug\Caro.Properties.Resources.resources
+E:\Project AI\Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.cache
+E:\Project AI\Caro\Caro\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+E:\Project AI\Caro\Caro\obj\Debug\Caro.exe
+E:\Project AI\Caro\Caro\obj\Debug\Caro.pdb
+E:\Project AI\Caro\Caro\obj\Debug\Caro.csprojAssemblyReference.cache
+E:\Project AI\Caro\Caro\obj\Debug\Caro.FrmCoCaro.resources
+C:\Users\ASUS\Downloads\Caro\Caro\Caro\bin\Debug\Caro.exe.config
+C:\Users\ASUS\Downloads\Caro\Caro\Caro\bin\Debug\Caro.exe
+C:\Users\ASUS\Downloads\Caro\Caro\Caro\bin\Debug\Caro.pdb
+C:\Users\ASUS\Downloads\Caro\Caro\Caro\obj\Debug\Caro.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Caro\Caro\Caro\obj\Debug\Caro.FrmCoCaro.resources
+C:\Users\ASUS\Downloads\Caro\Caro\Caro\obj\Debug\Caro.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Caro\Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Caro\Caro\Caro\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Caro\Caro\Caro\obj\Debug\Caro.exe
+C:\Users\ASUS\Downloads\Caro\Caro\Caro\obj\Debug\Caro.pdb
